@@ -1,0 +1,8 @@
+*
+!/town/
+!/town/*
+!/town_nether/
+!/town_nether/*
+!/town_the_end/
+!/town_the_end/*
+!.gitignore
